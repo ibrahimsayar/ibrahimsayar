@@ -5,7 +5,6 @@ I'm Ibrahim, a Senior Software Engineer in Augsburg, Germany, focused on softwar
 | Env. | Param |
 | ------ | ------ |
 | Mail | [ibrahimsayar96@gmail.com](mailto:ibrahimsayar96@gmail.com) |
-| Twitter | [@ibrahimsayar](https://twitter.com/ibrahimsayar) |
 | Medium | [@ibrahimsayar](https://medium.com/@ibrahimsayar) |
 | Web site | [ibrahimsayar.com](https://ibrahimsayar.com) |
 
